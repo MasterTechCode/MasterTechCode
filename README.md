@@ -23,5 +23,7 @@ Modular, reusable components with Sass and Bootstrap
 📫 Contact Me
 
 Email: elshodbekmuxtorov44@gmail.com
+
 Phone: +998 99 592 63 51
+
 Telegram: https://t.me/elshodbek_muxtorov
