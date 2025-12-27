@@ -1,16 +1,32 @@
-## Hi there 👋
+Elshodbek Muxtorov (Master Tech Code) 💻
 
-<!--
-**MasterTechCode/MasterTechCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Elshodbek Muxtorov, also known as Master Tech Code. I’m a passionate frontend developer focused on creating modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 & CSS3 – Semantic, responsive, and well-structured web pages
+
+JavaScript (ES6+) – Dynamic and interactive functionality
+
+TypeScript – Strongly typed JS for robust applications
+
+Sass – Modular, maintainable styles
+
+Bootstrap – Fast, responsive UI development
+
+Currently Learning: React.js – Modern frontend library for scalable web apps
+
+🚀 Projects
+
+I focus on building projects that highlight my frontend skills:
+
+Responsive landing pages & portfolios
+
+Interactive web applications with JavaScript / TypeScript
+
+Modular, reusable components with Sass and Bootstrap
+
+📫 Contact Me
+
+Email: elshodbekmuxtorov44@gmail.com
+Github: https://github.com/MasterTechCode/
