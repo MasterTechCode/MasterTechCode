@@ -29,4 +29,5 @@ Modular, reusable components with Sass and Bootstrap
 📫 Contact Me
 
 Email: elshodbekmuxtorov44@gmail.com
-Github: https://github.com/MasterTechCode/
+Phone: +998995926351
+Telegram: t.me/elshodbek_muxtorov
