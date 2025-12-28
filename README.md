@@ -4,7 +4,7 @@ Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on buildin
 
 🛠 Skills<br><br>
 <!-- Skills order: HTML, CSS, Sass, Bootstrap, TypeScript, Netlify, React, Next.js, Jest -->
-HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js | Next.js | Jest
+HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js | 
 
 
 ## 🌐 Socials:
@@ -23,8 +23,7 @@ HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js | Next.js | Je
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-#![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-#![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
