@@ -7,7 +7,7 @@ Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on buildin
 HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js | 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/MasterTechCode)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/mrx404notfound)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=12)](https://instagram.com/MasterTechCode)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=12)](https://x.com/MasterTech_Code)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=12)](mailto:elshodbekmuxtorov44@gmail.com)
