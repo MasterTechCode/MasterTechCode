@@ -6,14 +6,14 @@ Hi! I’m Elshodbek Muxtorov, a passionate frontend developer focused on buildin
 <!-- Skills order: HTML, CSS, Sass, Bootstrap, TypeScript, Netlify, React, Next.js, Jest -->
 HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js | 
 
-
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MasterTechCode)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MasterTechCode)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MasterTech_Code)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elshodbekmuxtorov44@gmail.com)
-[![Guns.lol](https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=7)](https://guns.lol/mrx404)
-[![Blog](https://img.shields.io/badge/Blog-0000FF?style=for-the-badge&logo=medium&logoColor=white&logoWidth=7)](https://readme-blog.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=12)](https://discord.gg/MasterTechCode)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=12)](https://instagram.com/MasterTechCode)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white&logoWidth=12)](https://x.com/MasterTech_Code)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=12)](mailto:elshodbekmuxtorov44@gmail.com)
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=12)](https://guns.lol/mrx404)
+[![Blog](https://img.shields.io/badge/Blog-0000FF?style=for-the-badge&logo=medium&logoColor=white&logoWidth=12)](https://readme-blog.netlify.app/)
+
 
 
 
