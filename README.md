@@ -12,8 +12,8 @@ HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js |
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MasterTechCode)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MasterTech_Code)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elshodbekmuxtorov44@gmail.com)
-[![Guns.lol](https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=12)](https://guns.lol/mrx404)
-[![Blog](https://img.shields.io/badge/Blog-0000FF?style=for-the-badge&logo=medium&logoColor=white&logoWidth=12)](https://readme-blog.netlify.app/)
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-000000?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=10)](https://guns.lol/mrx404)
+[![Blog](https://img.shields.io/badge/Blog-0000FF?style=for-the-badge&logo=medium&logoColor=white&logoWidth=10)](https://readme-blog.netlify.app/)
 
 
 
