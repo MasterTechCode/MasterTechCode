@@ -25,13 +25,6 @@ HTML5 | CSS3 | Sass | Bootstrap | TypeScript | Netlify | React.js |
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MasterTechCode&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MasterTechCode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterTechCode&theme=dark&hide_border=false&layout=compact)
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MasterTechCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
